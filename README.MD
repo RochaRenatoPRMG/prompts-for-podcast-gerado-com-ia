@@ -29,7 +29,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via chatgpt conforme prompts utilizados.pdf disponivel neste repositorio
 - Audio gerado pela elevenLabs
 - dall-edfree Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
