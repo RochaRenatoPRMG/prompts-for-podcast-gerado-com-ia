@@ -34,7 +34,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - dall-edfree Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-OBS: Não foi possivel o uso do Midjourney para gerar imagem, pois estava indispoivel a vesão gratuita.
+OBS: Não foi possivel o uso do Midjourney para gerar imagem; estava indisponivel na vesão gratuita.
 
 ## 🛠️ Instruções de execução
 
